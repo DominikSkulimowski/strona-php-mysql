@@ -1,0 +1,38 @@
+body {
+    margin: 50px;
+    padding: 0;
+    background-color: rgba(79, 130, 219, 0.2);
+    font-family: verdana;
+}
+
+div {
+    border: 2px dashed black;
+    text-align: center;
+    font-size: 130%;
+    width: 500px;
+    height: 300px;
+    margin: 100px auto;
+}
+
+input {
+    margin-bottom: 10px;
+    padding: 3px;
+}
+
+p.komunikat {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    font-size: 110%;
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px 20px;
+}
